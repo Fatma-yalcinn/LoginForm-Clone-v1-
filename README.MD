@@ -1,4 +1,4 @@
-# Registration form (Clone-v2)
+# Registration form (Clone-v1)
 
 This is my clone project.
 
